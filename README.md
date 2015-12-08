@@ -1,0 +1,2 @@
+# WP-plugins
+WordPress plugins
